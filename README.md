@@ -1,1 +1,2 @@
 # Hack-the-6ix
+As a team we have found that there is no real and no easy way to fill out a witness form. Additionally, we noticed that a lot of insurance claims go into dispute between the parties. Thus, we thought this application can both help the roads to be safer, and help the insurance companies to get a more accurate ruling. We built the application using Node.js to create a backend server and MongoDB to store the data from the users. As well, we used React.js to provide a smooth and intuitive UI.
